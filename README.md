@@ -12,7 +12,7 @@ I deeply believe that there are lots of aspects to be improved, looking forward 
 
 ### Shoot a glance first...
 ---
-<img src="https://github.com/jupan1994/jupan1/blob/master/Android/GoodPilot/start.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/GoodPilot/fly.png" width="270"> <img src="https://github.com/jupan1994/jupan1/blob/master/Android/GoodPilot/end.png" width="270">
+<img src="https://github.com/jupan1994/GoodPilot/blob/master/start.png" width="270"> <img src="https://github.com/jupan1994/GoodPilot/blob/master/fly.png" width="270"> <img src="https://github.com/jupan1994/GoodPilot/blob/master/end.png" width="270">
 
 ### In detail...
 ---
